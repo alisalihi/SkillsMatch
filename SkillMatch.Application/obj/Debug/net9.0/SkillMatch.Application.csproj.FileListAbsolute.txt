@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\SkillsMatch\SkillMatch.Application\obj\Debug\net9.0\SkillMatch.Application.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\SkillsMatch\SkillMatch.Application\obj\Debug\net9.0\SkillMatch.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\SkillsMatch\SkillMatch.Application\obj\Debug\net9.0\SkillMatch.Application.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SkillsMatch\SkillMatch.Application\obj\Debug\net9.0\SkillMatch.Application.AssemblyInfo.cs
+C:\Users\User\Desktop\SkillsMatch\SkillMatch.Application\obj\Debug\net9.0\SkillMatch.Application.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SkillsMatch\SkillMatch.Application\obj\Debug\net9.0\SkillMatch.Application.sourcelink.json

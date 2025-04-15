@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SkillMatch.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ffeb073f808ca374e234ecdff3cccaf9abafcf6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+276ea8720c519aa029aed7c6227925d37d723aac")]
 [assembly: System.Reflection.AssemblyProductAttribute("SkillMatch.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SkillMatch.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

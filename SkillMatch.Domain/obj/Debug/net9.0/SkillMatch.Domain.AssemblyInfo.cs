@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SkillMatch.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+94d8aeb7f775e0c78f11f68e6d4a5c3f6c11119c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ffeb073f808ca374e234ecdff3cccaf9abafcf6")]
 [assembly: System.Reflection.AssemblyProductAttribute("SkillMatch.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SkillMatch.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
